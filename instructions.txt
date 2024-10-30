@@ -1,0 +1,33 @@
+Authors Widget v1
+
+(C) Ashley Johnson (elgunvo.de) 2011
+
+License: GPL v3
+
+INSTALLATION INSTRUCTIONS
+
+Before you start these procedures please make sure you have buddy-press installed and working.
+
+1. Upload the plugin to the plugins folder.
+2. Go to widgets under design & drag Authors-Widget to the desired area
+3. Your Good to go!
+
+QUESTIONS? OR NEED HELP?
+
+If you are having difficulties getting this plugin to work please email me with the details 
+at hallo@elgunvo.de
+
+SUGGESTIONS
+
+I would love to know what would make this plugin better for the end-user. If you have a
+suggestion then email me at hallo@elgunvo.de
+
+CUSTOM PLUGINS
+
+If you want me to create another plugin you can either pay(commercial plugin) or 
+suggest (Open Source Plugin) and maybe donate to my paypal (hallo@elgunvo.de) then email me.
+
+DONATIONS
+
+I know I have said it before above but if you find my plugin useful, please consider donating
+to my paypal account (hallo@elgunvo.de). Alternatively if your searching for hosting then you can also support me by using my hosting company http://elgunvo-hosting.com
